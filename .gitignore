@@ -1,0 +1,2 @@
+node_modules\n.next\nout\n.DS_Store\n*.pem\n.env*\n.vercel\n
+node_modules
